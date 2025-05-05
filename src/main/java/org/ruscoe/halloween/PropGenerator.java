@@ -57,7 +57,25 @@ public class PropGenerator {
     // Prop types
     private static final String[] TYPES = {
             "Pneumatic",
-            "Scare Actor"
+            "Animatronic",
+            "Static",
+            "Scare Actor",
+            "Portrait",
+            "Projection",
+            "Sound-Activated",
+            "Motion-Triggered",
+            "Pop-Up",
+            "Drop Panel",
+            "Swinging",
+            "Floating",
+            "Hanging",
+            "Crawling",
+            "Rising",
+            "Spinning",
+            "Jump Scare",
+            "Lighting Effect",
+            "Fog / Mist",
+            "Interactive (Touch / Button Activated)"
     };
 
     private static final Random random = new Random();
