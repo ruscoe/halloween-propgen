@@ -9,11 +9,49 @@ public class PropGenerator {
 
     // Name parts
     private static final String[] NAME_PREFIXES = {
-            "Ghastly"
+            "Ghastly",
+            "Cursed",
+            "Screaming",
+            "Possessed",
+            "Wailing",
+            "Eerie",
+            "Haunted",
+            "Twisted",
+            "Grotesque",
+            "Vile",
+            "Putrid",
+            "Rotten",
+            "Malevolent",
+            "Shrieking",
+            "Ominous",
+            "Sinister",
+            "Grinning",
+            "Lurking",
+            "Morbid",
+            "Creeping"
     };
 
     private static final String[] NAME_SUFFIXES = {
-            "Specter"
+            "Specter",
+            "Gravedigger",
+            "Doll",
+            "Widow",
+            "Phantom",
+            "Bones",
+            "Corpse",
+            "Shadow",
+            "Wraith",
+            "Ghoul",
+            "Butcher",
+            "Puppet",
+            "Mask",
+            "Husk",
+            "Crawler",
+            "Fiend",
+            "Reaper",
+            "Marionette",
+            "Apparition",
+            "Scarecrow"
     };
 
     // Prop types
