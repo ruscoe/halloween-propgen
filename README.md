@@ -2,6 +2,8 @@
 
 A prop idea generator for Halloween haunts. Inspire your spooky heart.
 
+Works as a REST API endpoint.
+
 ## Requirements
 
 * JDK 17
