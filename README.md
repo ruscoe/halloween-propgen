@@ -24,3 +24,11 @@ Start the server:
 `mvn clean spring-boot:run`
 
 Open: `http://localhost:8080/api/prop`
+
+## Example response
+
+`{"name":"Shrieking Scarecrow","type":"Pneumatic"}`
+
+## Credit
+
+Thanks to [ChatGPT](https://chatgpt.com/) for coming up with the prop names!
