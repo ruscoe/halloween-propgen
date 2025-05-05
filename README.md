@@ -1,3 +1,5 @@
+![halloween_banner](https://github.com/user-attachments/assets/f3b0461d-ae02-4461-aa5f-ad630896bfbb)
+
 # Halloween PropGen
 
 A prop idea generator for Halloween haunts. Inspire your spooky heart.
