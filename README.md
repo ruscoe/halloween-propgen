@@ -17,6 +17,8 @@ Clone the git repo:
 
 `git clone git@github.com:ruscoe/halloween-propgen.git`
 
+`cd halloween-propgen`
+
 Run install:
 
 `mvn clean install`
