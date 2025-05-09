@@ -35,6 +35,10 @@ Open: `http://localhost:8080/api/prop`
 
 `{"name":"Shrieking Scarecrow","type":"Pneumatic"}`
 
+## Frontend
+
+There is a [React frontend you can use with Halloween PropGen](https://github.com/ruscoe/halloween-propgen-fe).
+
 ## Credit
 
 Thanks to [ChatGPT](https://chatgpt.com/) for coming up with the prop names!
